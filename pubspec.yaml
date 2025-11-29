@@ -1,6 +1,6 @@
 name: tovi
 description: "This package provides a single class for formatting user input in a text field in Dart/Flutter applications"
-version: 1.0.0+4
+version: 1.0.0+5
 homepage: https://github.com/vladislav-yemelyanov/tovi
 repository: https://github.com/vladislav-yemelyanov/tovi
 license: MIT

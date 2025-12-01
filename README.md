@@ -1,7 +1,7 @@
 
 # Tovi
 
-![Logo](https://raw.githubusercontent.com/vladislav-yemelyanov/tovi/main/logo.png)
+![Demo](https://raw.githubusercontent.com/vladislav-yemelyanov/tovi/main/demo.gif)
 
 [![pub package](https://img.shields.io/pub/v/tovi.svg)](https://pub.dev/packages/tovi)
 

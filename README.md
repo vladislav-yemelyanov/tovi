@@ -28,8 +28,7 @@ This package provides a single class for formatting user input in a text field i
 Open your pubspec.yaml and add the package:
 
 ```dart
-dependencies:
-  tovi: ^1.0.0
+flutter pub add tovi
 ```
 
 Then run:

@@ -125,6 +125,10 @@ class Tovi extends TextInputFormatter {
       offset += 1;
     }
 
+    if (offset < 0) {
+      offset = text.length;
+    }
+
     return newValue.copyWith(
       text: text,
       selection: TextSelection.collapsed(offset: min(offset, text.length)),

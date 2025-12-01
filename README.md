@@ -25,29 +25,17 @@ This package provides a single class for formatting user input in a text field i
 
 1. Add the dependency
 
-Open your pubspec.yaml and add the package:
-
 ```dart
 flutter pub add tovi
 ```
 
-Then run:
-
-```dart
-flutter pub get
-```
-
 2. Import the package
-
-In your Dart/Flutter file, import the formatter:
 
 ```dart
 import 'package:tovi/tovi.dart';
 ```
 
 3. Use in a TextField
-
-Apply the Tovi formatter to any TextField using the inputFormatters property:
 
 ```dart
 TextField(

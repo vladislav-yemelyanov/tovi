@@ -1,6 +1,9 @@
+
 # Tovi
 
 ![Logo](https://raw.githubusercontent.com/vladislav-yemelyanov/tovi/main/logo.png)
+
+[![pub package](https://img.shields.io/pub/v/tovi.svg)](https://pub.dev/packages/tovi)
 
 This package provides a single class for formatting user input in a text field in Dart/Flutter applications.
 
